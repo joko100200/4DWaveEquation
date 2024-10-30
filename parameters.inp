@@ -1,0 +1,12 @@
+$inputs
+hx=0.1,hy=0.1,hz=0.1,ht=0.1
+xmin=-2.0,xmax=2.0
+ymin=-2.0,ymax=2.0
+zmin=0.0,zmax=0.1
+tmin=0.0,tmax=20.0 / 
+$boundry
+pxb=0.0,mxb=0.0
+pyb=0.0,myb=0.0
+pzb=0.0,mzb=0.0 /
+$checks
+toggle=0/
