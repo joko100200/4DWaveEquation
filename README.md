@@ -10,4 +10,4 @@ Then this equation is then split into two for propagation: <br>
 This is the two equations we propagate in the code.
 
 ## Refrence
-![Baumgarte TW, Shapiro SL. Numerical Relativity: Starting from Scratch. Cambridge University Press; 2021.](https://www.cambridge.org/core/books/numerical-relativity-starting-from-scratch/FB5B832C4ED8EFE65A5834C6D6D4657D) (page 45)
+[Baumgarte TW, Shapiro SL. Numerical Relativity: Starting from Scratch. Cambridge University Press; 2021.](https://www.cambridge.org/core/books/numerical-relativity-starting-from-scratch/FB5B832C4ED8EFE65A5834C6D6D4657D) (page 45)
